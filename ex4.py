@@ -3,7 +3,7 @@ def ex4():
     meses = 0
     investido = 0
     investimento_mensal = 500
-    rendimento_mensal = 0.0005
+    rendimento_mensal = 0.05
     marco_100k = None
     valores_dolar = [4.95, 5.02, 5.10, 5.20, 5.18, 5.25, 5.30, 5.40, 5.35, 5.45, 5.50, 5.60]
 
